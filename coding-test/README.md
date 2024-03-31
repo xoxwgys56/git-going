@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-- [reverse-integer](./reverse-integer)
+- [reverse-string](./reverse-string)
 - [array-traversal](./array-traversal)
